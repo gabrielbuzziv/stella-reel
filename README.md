@@ -37,7 +37,7 @@ Escolha onde você vai usar. Não precisa instalar nos três.
 
 Funciona em qualquer plano, inclusive no gratuito.
 
-1. Baixe o arquivo **`stella-reel.zip`** na página de [Releases](https://github.com/gabrielbuzziv/stella-reel/releases/latest). Não descompacte.
+1. [Clique aqui para baixar o **`stella-reel.zip`**](https://github.com/gabrielbuzziv/stella-reel/releases/latest/download/stella-reel.zip). Não descompacte.
 2. No Claude, abra **Configurações → Capacidades** e ative **Criação de arquivos e execução de código**.
 3. Vá em **Personalizar → Skills**, clique no **+**, escolha **Criar skill** e depois **Enviar uma skill** (*Upload a skill*).
 4. Selecione o `stella-reel.zip`.
